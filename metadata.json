@@ -1,0 +1,6 @@
+{
+  "name": "AxceMedRep AI - Medical Documentation & Report System",
+  "description": "AI-assisted clinical documentation platform converting handwritten and printed medical notes into validated clinical reports with doctor review, uncertainty flags, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
